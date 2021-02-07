@@ -1,0 +1,3 @@
+order_no,user_id,meal_id,table_no,quantity,bill,order_date
+ORD1002,601fafad3911530651fe822b,601fc186cf92ebeabe4901a6,TBL10,12,100.5,2021-02-07T13:22:51.430Z
+ORD1002,601fafad3911530651fe822b,601fc186cf92ebeabe4901a6,TBL10,10,100.5,2021-02-07T13:26:34.650Z
