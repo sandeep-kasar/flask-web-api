@@ -1,5 +1,5 @@
 # FlaskWebApi
-Flask Web API Using MongoDB MongoEngine, and Flask RESTful. 
+Flask web API using MongoDB MongoEngine, and Flask RESTful.
 Just few APIs are created for the restaurant system.
 
 # Postman document link for API details
