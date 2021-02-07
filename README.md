@@ -2,7 +2,7 @@
 Flask web API using MongoDB MongoEngine, and Flask RESTful.
 Just few APIs are created for the restaurant system.
 
-# Postman document link for API details
+# Postman API details
 https://www.getpostman.com/collections/2c7ef337c8ada77d0abd
 
 # Install different python version and create virtual environment
