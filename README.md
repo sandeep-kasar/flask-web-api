@@ -7,11 +7,11 @@ https://www.getpostman.com/collections/2c7ef337c8ada77d0abd
 
 # Install different python version and create virtual environment
 
-sudo add-apt-repository ppa:deadsnakes/ppa   
-sudo apt-get update   
-sudo apt install python3.6
+sudo add-apt-repository ppa:deadsnakes/ppa     
+sudo apt-get update     
+sudo apt install python3.6  
 
-sudo apt-get install python3.6-venv 
+sudo apt-get install python3.6-venv    
 python3.6-dev python3.6 -m venv venv_name
 
 # Import csv file in mongodb:
